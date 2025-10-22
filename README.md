@@ -197,7 +197,7 @@ The system calculates the total cost automatically and keeps booking records lin
 
 ## 👨‍💻 Author
 
-**Bharanidharan Bharanidharan**
+**Bharanidharan P**
 🎓 Engineering Student 
 💡 Passionate about web development and full-stack technologies
 
